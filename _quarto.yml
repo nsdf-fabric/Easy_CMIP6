@@ -8,7 +8,7 @@ book:
   date: "7/20/2024"
   cover-image: NASA_data.png
   chapters:
-    - 000_index.qmd
+    - index.qmd
     - 001_intro.qmd
     - 002_examples.qmd
     - 003_read_different_varibles.qmd
